@@ -5,7 +5,8 @@ Janardan, S.K., Janghel, R.R. & Govil, H. Enhancing hyperspectral image classifi
 
 ```
 @article{janardan2026enhancing,
-title={Enhancing hyperspectral image classification: DeepXTE for efficient semantic feature extraction: Spectral spatial feature fusion via Xception augmented transformer encoder},
+title={Enhancing hyperspectral image classification: DeepXTE for efficient semantic feature extraction:
+Spectral spatial feature fusion via Xception augmented transformer encoder},
 author={Janardan, Sushil Kumar and Janghel, Rekh Ram and Govil, Himanshu},
 journal={Machine Vision and Applications},
 volume={37},
